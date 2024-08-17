@@ -1,0 +1,9 @@
+1. UPLOAD A POST
+2. COMMENT A POST
+3. CATEGORY
+4. USERS - ADMIN, NORMAL
+5. VIEWS
+
+news_blog<<database name>>
+
+
